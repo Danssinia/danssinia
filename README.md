@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="Daniel - Full Stack Developer" />
+</p>
 # Hey there, I'm Daniel 👋
 
 ### Full-Stack Developer | Building Scalable Digital Products
