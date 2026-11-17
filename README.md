@@ -1,21 +1,22 @@
+
 <p align="center">
   <img src="assets/github-banner.png" width="100%" alt="Daniel - Full Stack Developer" />
 </p>
 
-# Hey there, I'm Daniel 👋
+<h1 align="center">Hey there, I'm Daniel 👋</h1>
 
-### Full-Stack Developer | Building Scalable Web Applications & Digital Products
+<h3 align="center">Full-Stack Developer | Building Scalable Web Applications & Digital Products</h3>
 
-I'm a Full-Stack Developer passionate about designing and building modern web applications, scalable backend systems, and reliable digital products.
+<p align="center">
+  I build modern web applications, scalable backend systems, and reliable digital products that solve real-world problems.
+</p>
 
-I enjoy turning ideas into practical solutions — combining clean frontend experiences, robust backend architectures, and well-structured databases to solve real-world problems.
-
-- 🚀 Currently building **ERMP**, an enterprise pharmacy management platform.
-- 💻 Interested in scalable architectures, backend engineering, and modern web technologies.
-- 🌱 Always learning, experimenting, and improving my engineering skills.
-- 🤝 Open to collaboration, freelance opportunities, and exciting projects.
-
-
+<p align="center">
+  🚀 Currently developing <strong>ERMP</strong>, an enterprise pharmacy management platform.<br/>
+  💻 Interested in scalable architectures, backend engineering, and modern web technologies.<br/>
+  🌱 Always learning, experimenting, and improving my engineering skills.<br/>
+  🤝 Open to collaboration, freelance opportunities, and exciting projects.
+</p>
 
 ---
 
@@ -24,25 +25,25 @@ I enjoy turning ideas into practical solutions — combining clean frontend expe
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend Technologies" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Backend Technologies" />
 </p>
 
-### Database & ORM
+### Databases & ORMs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Database Technologies" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" alt="Development Tools" />
 </p>
 
 ---
@@ -55,7 +56,7 @@ I enjoy turning ideas into practical solutions — combining clean frontend expe
 
 ERMP is a multi-tenant pharmacy management solution designed to streamline business operations, inventory control, procurement, and access management across multiple branches.
 
-**Key capabilities:**
+**Key Capabilities:**
 
 - 🔐 Dynamic User Management & Role-Based Access Control
 - 🏢 Multi-Tenant & Multi-Branch Management
@@ -64,12 +65,11 @@ ERMP is a multi-tenant pharmacy management solution designed to streamline busin
 - 📋 Procurement & Supplier Management
 - 📊 Reporting, Analytics & Dashboards
 
-**Technology:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Docker
+**Technology Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Docker
 
-🔒 Repository: Private — Proprietary Project
+🔒 **Repository:** Private — Proprietary Project
 
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -87,20 +87,19 @@ ERMP is a multi-tenant pharmacy management solution designed to streamline busin
   <img src="https://raw.githubusercontent.com/Danssinia/danssinia/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time" />
 </p>
 
-
 ---
 
 ## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://danssinia.github.io/port-folio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/danssinia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:danmerethio19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
