@@ -1,19 +1,21 @@
 <p align="center">
   <img src="assets/github-banner.png" width="100%" alt="Daniel - Full Stack Developer" />
 </p>
+
 # Hey there, I'm Daniel 👋
 
-### Full-Stack Developer | Building Scalable Digital Products
+### Full-Stack Developer | Building Scalable Web Applications & Digital Products
 
-I'm a Full-Stack Developer passionate about building modern web applications, scalable backend systems, and digital solutions that solve real-world problems.
+I'm a Full-Stack Developer passionate about designing and building modern web applications, scalable backend systems, and reliable digital products.
 
-I enjoy transforming ideas into reliable, maintainable, and user-friendly software — from intuitive frontend experiences to robust backend architectures.
+I enjoy turning ideas into practical solutions — combining clean frontend experiences, robust backend architectures, and well-structured databases to solve real-world problems.
 
-- 🚀 Currently developing **ERMP**, a private enterprise pharmacy management platform.
-- 💻 Focused on full-stack development and scalable system architecture.
-- 🏗️ Interested in SaaS, enterprise applications, and software engineering.
-- 🌱 Always learning, building, and improving.
-- 🤝 Open to freelance opportunities, collaborations, and interesting projects.
+- 🚀 Currently building **ERMP**, an enterprise pharmacy management platform.
+- 💻 Interested in scalable architectures, backend engineering, and modern web technologies.
+- 🌱 Always learning, experimenting, and improving my engineering skills.
+- 🤝 Open to collaboration, freelance opportunities, and exciting projects.
+
+
 
 ---
 
