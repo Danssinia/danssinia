@@ -70,16 +70,23 @@ ERMP is a multi-tenant pharmacy management solution designed to streamline busin
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danssinia&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danssinia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Danssinia/danssinia/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Danssinia&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Danssinia/danssinia/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by Language" />
+  <img src="https://raw.githubusercontent.com/Danssinia/danssinia/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Languages" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danssinia/danssinia/output/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Statistics" />
+  <img src="https://raw.githubusercontent.com/Danssinia/danssinia/output/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time" />
+</p>
+
 
 ---
 
